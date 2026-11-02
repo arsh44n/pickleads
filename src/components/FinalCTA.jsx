@@ -78,7 +78,7 @@ ${inquiryData.services.map((s) => `  - ${s}`).join('\n')}
       {/* Full-Bleed Light Padel Court Background Asset */}
       <div className="absolute inset-0 w-full h-full overflow-hidden pointer-events-none">
         <img
-          src="/images/final-cta-bg.jpg"
+          src="./images/final-cta-bg.jpg"
           alt="Padel Court Background"
           className="w-full h-full object-cover object-center filter contrast-[1.04] brightness-[1.02]"
         />

@@ -25,7 +25,7 @@ export default function OwnYourCourts({ onOpenBooking }) {
       desc: 'Aggregators mask player emails and gatekeep phone numbers so you can never leave. With your own sovereign infrastructure, every single booking routes directly into your direct WhatsApp & email customer CRM from day one.',
       impactMetric: '100%',
       impactLabel: 'Direct Player Contacts Retained',
-      image: '/images/sovereign-data-ownership.png',
+      image: './images/sovereign-data-ownership.png',
       badge: 'PROPRIETARY MEMBER DATABASE',
       stats: [
         { label: 'Unmasked Contacts', value: '100%' },
@@ -42,7 +42,7 @@ export default function OwnYourCourts({ onOpenBooking }) {
       desc: 'As your venue adds courts and scales revenue, third-party apps charge you more and more for the exact same software. We replace commission draining apps with a fixed-overhead infrastructure where 100% of the money goes straight to your bank.',
       impactMetric: '0.0%',
       impactLabel: 'Platform Commission Tax',
-      image: '/images/sovereign-own-your-courts.jpg',
+      image: './images/sovereign-own-your-courts.jpg',
       badge: 'UNTOUCHED GROSS MARGINS',
       stats: [
         { label: 'Per-Booking Platform Cut', value: '0.0%' },
@@ -59,7 +59,7 @@ export default function OwnYourCourts({ onOpenBooking }) {
       desc: 'Aggregators only let you sell court slots. Your private digital platform connects your entire property—allowing players to pre-order smoothies, cold brews, and protein bowls delivered straight to Court 3, charge pro-shop rackets to their account, and book coaching clinics with 1 tap.',
       impactMetric: '+38%',
       impactLabel: 'Average Secondary Spend per Player',
-      image: '/images/sovereign-cafe-commerce.jpg',
+      image: './images/sovereign-cafe-commerce.jpg',
       badge: 'UNIFIED PLAYER WALLET',
       stats: [
         { label: 'Café & Bar Pre-Orders', value: 'Enabled' },
@@ -76,7 +76,7 @@ export default function OwnYourCourts({ onOpenBooking }) {
       desc: 'Transform your facility into an exclusive, sticky social club. Our platform gives your players a private social feed, verified DUPR/Elo rating matchmaking, open doubles mixers, and partner finders—turning casual court renters into a lifelong, self-sustaining movement.',
       impactMetric: '4.2X',
       impactLabel: 'Weekly Player Session Frequency',
-      image: '/images/sovereign-social-club.jpg',
+      image: './images/sovereign-social-club.jpg',
       badge: 'COMMUNITY NETWORK EFFECT',
       stats: [
         { label: 'DUPR / Skill Matchmaking', value: 'Automated' },

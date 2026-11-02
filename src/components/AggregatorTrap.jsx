@@ -20,7 +20,7 @@ export default function AggregatorTrap({ onOpenBooking }) {
       desc: 'When a player searches for your venue on an aggregator app, they are greeted by nearby competitors, discounted promos, and suggested venues. You pay for the listing, yet the platform uses your hard-earned traffic to cross-sell other clubs.',
       takeaway: 'Aggregator directories monetize your traffic, not your exclusivity.',
       mediaType: 'image',
-      src: '/images/is-it-exclusive.jpg',
+      src: './images/is-it-exclusive.jpg',
       alt: 'Is it exclusive? - Racquet Club Reality'
     },
     {
@@ -31,7 +31,7 @@ export default function AggregatorTrap({ onOpenBooking }) {
       desc: 'Aggregators mask phone numbers and gatekeep customer emails to ensure you can never leave. When a rainout occurs or you launch a private coaching league, you cannot message your players directly—you must pay the app to reach the people on your own courts.',
       takeaway: 'If you cannot contact them directly, you do not own a community. You are renting an audience.',
       mediaType: 'video',
-      src: '/videos/do-you-own-your-community.mp4',
+      src: './videos/do-you-own-your-community.mp4',
       alt: 'Do you really own your community?'
     },
     {
@@ -42,7 +42,7 @@ export default function AggregatorTrap({ onOpenBooking }) {
       desc: 'Unlike fixed digital infrastructure, aggregator fees scale with your sweat. When your club does $30,000 a month, you pay $1,050. When you scale to $75,000, you pay $2,625 for the exact same database query. You are building equity for an app while paying permanent rent on your own success.',
       takeaway: 'Sovereign digital infrastructure keeps your software cost strictly fixed while you keep 100% of court revenue.',
       mediaType: 'video',
-      src: '/videos/do-you-own-it-or-rent-it.mp4',
+      src: './videos/do-you-own-it-or-rent-it.mp4',
       alt: 'Do you own it or rent it?'
     }
   ];

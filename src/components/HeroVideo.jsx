@@ -33,7 +33,7 @@ export default function HeroVideo() {
         playsInline
         className="absolute inset-0 w-full h-full object-cover z-0 filter brightness-[0.85] contrast-[1.08]"
       >
-        <source src="/hero-bg.mp4" type="video/mp4" />
+        <source src="./hero-bg.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
 
